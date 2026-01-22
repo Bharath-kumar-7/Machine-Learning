@@ -1,2 +1,2 @@
 # Machine-Learning
-Learning machine learning
+Learning machine learning from scratch python
